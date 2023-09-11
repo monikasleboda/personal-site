@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://github.com/monikasleboda/personal-site"><img src="images/screenshot.png" alt="screenshot"></a>
+</p>
+
 <h1 align="center">Personal site</h1>
   <p align="center">Project for learning CSS and HTML.</p>
 <br>
